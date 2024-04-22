@@ -1,13 +1,12 @@
 
 
 Automated scripts to test ecommerce mobile app
-App file is located
-at Download APK File From Here
-https://brainstationo365-my.sharepoint.com/:u:/g/personal/faizul_islam_brainstation-23_com/ETCx8lSzo4hPn6GP0tDhcuUBchPw4Jb3D47wBCY9T82nKg
+
 
 Automation script to automate the below scenarios
 
 Scenario: 01 Customer add products in his shopping cart
+
 
 Given: Mike on home page after opening nopCart mobile app
 
@@ -21,6 +20,7 @@ Then: Mike click add to cart button to add the product in his cart
 
 
 Scenario: 02 Customer successfully place order as a guest user
+
 
 
 Given: Mike go to shopping cart by clicking top cart icon
